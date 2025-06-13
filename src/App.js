@@ -5,7 +5,7 @@ import "./Calculator.css";
 function App() {
   return (
     <div className="app-container">
-      <h1>Hi-Tech Calculator</h1>
+      <h1>Calculator</h1>
       <Calculator />
     </div>
   );
